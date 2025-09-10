@@ -1,1 +1,5 @@
-# La-industria-sider-rgic
+# La-industria-siderúrgica
+El desarrollo de la industria del hierro estuvo influido en gran medida por las técnicas importadas de Gran Bretaña. Volveremos a encontrar en este sector la participación conjunta del Estado francés y de los técnicos británicos.
+En el siglo XVIII, Francia llevaba un gran retraso en la producción de hierro con respecto a Inglaterra y a Alemania. La industria se beneficiaba de una fuerte protección aduanera y solamente se utilizaba el mineral de hierro de Lorena que era de calidad mediocre. Además, ni siquiera existía competencia interior debido a la ausencia de medios de transporte. Cada productor tenía un monopolio en la zona geográfica en la que estaba radicada su empresa.
+The development of the iron industry was largely influenced by techniques imported from Great Britain. In this sector, we again find the joint participation of the French state and British technicians.
+In the eighteenth century, France lagged far behind England and Germany in iron production. The industry benefited from strong customs protection and relied solely on the mediocre-quality iron ore from Lorraine. Moreover, there was not even domestic competition due to the lack of transportation. Each producer held a monopoly within the geographical zone where their enterprise was established.
